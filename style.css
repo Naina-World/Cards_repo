@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0%;
     padding: 0%;
 }
@@ -30,8 +30,6 @@ body {
 
 }
 
-
-
 #card1 {
     transform: translate(-50%, -50%);
     z-index: 4;
@@ -45,7 +43,7 @@ body {
     background-color: blue;
 }
 
-#card2:hover{
+#card2:hover {
     z-index: 10;
 }
 
@@ -55,7 +53,7 @@ body {
     background-color: green;
 }
 
-#card3:hover{
+#card3:hover {
     z-index: 10;
 }
 
@@ -65,7 +63,7 @@ body {
     background-color: yellow;
 }
 
-#card4:hover{
+#card4:hover {
     z-index: 10;
 }
 
